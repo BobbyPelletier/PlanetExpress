@@ -1,2 +1,2 @@
 # PlanetExpress
-Homelab
+Homelab configuration files
